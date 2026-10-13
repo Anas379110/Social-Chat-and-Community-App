@@ -1,21 +1,21 @@
-# تطبيق الدردشة والتواصل الاجتماعي في الوقت الفعلي
-**Real-Time Chat & Social Messaging Application** · التصنيف: موبايل (Flutter)
+# Real-Time Chat & Social Messaging Application
+**Real-Time Chat & Social Messaging Application** · Category: Mobile (Flutter)
 
-> هذا المشروع خاص بشركة/عميل محدد، والكود المصدري غير منشور.
+> This project is private to a specific company/client, and the source code is not published.
 > Private client work — the source code is not public.
 
-## نبذة عن المشروع
-تطبيق مراسلة Flutter مع تشفير E2E ومحادثات جماعية ومشاركة وسائط.
+## Project Overview
+A Flutter messaging application with E2E encryption, group chats, and media sharing.
 
-## أبرز النقاط
-- Firebase Firestore مع Offline Persistence
-- تشفير RSA End-to-End للمحادثات الخاصة
-- إشعارات غنية مع Deep-Link Routing
+## Highlights
+- Firebase Firestore with Offline Persistence
+- RSA End-to-End encryption for private chats
+- Rich notifications with Deep-Link Routing
 
-## الدور
-مطوّر تطبيقات موبايل (Flutter): بناء التطبيق وإدارة الحالة والتكامل مع الخدمات الخلفية والنشر على المتاجر.
+## Role
+Mobile Application Developer (Flutter): build the app, manage state, integrate with backend services, and publish to app stores.
 
-## التقنيات المستخدمة
+## Technologies Used
 Flutter, Dart, Firebase, Firestore, FCM, WebSockets, Provider, SQLite
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).

@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — تطبيق الدردشة والتواصل الاجتماعي في الوقت الفعلي
+# 🛠️ Tech Stack — Real-Time Chat & Social Messaging Application
 
 - Flutter
 - Dart
